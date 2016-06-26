@@ -1,2 +1,5 @@
 # Meowlin
-A Wizard cat takes on goblin foes
+A wizard cat name Meowlin must defeat the evil Vacooms that plague the forest with his fire hair balls!
+
+Created by Ryan Leonski twitter.com/subliminalman
+Super Help from Tristan Wright twitter.com/Thrawst
